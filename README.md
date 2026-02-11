@@ -15,6 +15,10 @@ y colaborativo.
         <a href="ingsoft.luisgarrido@gmail.com" target="_blank" >
         <img alt="Email" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" width="70" height="70">
         </a>
+        </a>
+        <a href="https://acortar.link/Fx7VOX" target="_blank" >
+        <img alt="Figma" src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" width="70" height="70">
+        </a>
 </p>
 
 ## ¿Creamos algo juntos?
